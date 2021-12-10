@@ -1,0 +1,2 @@
+# DataStructureAndAlgorithmByPython
+Python3でデータ構造とアルゴリズムを学ぶ。気分が乗らなかったら別言語にする。
